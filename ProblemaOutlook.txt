@@ -1,0 +1,5 @@
+Obs 1. O Desafio foi realizado até o momento da criação do fluxo power automate.
+
+Obs 2. Não consegui prosseguir com a realização por conta do erro que tive com a minha conta da microsoft e o erro descrito na imagem.
+
+Obs 3. Para não atrasar meu cronograma de estudos e deixar de realizar os outros projetos estou entregando até onde consegui, lembrando que a única parte faltando é apenas o fluxo de envio de email outlook.
